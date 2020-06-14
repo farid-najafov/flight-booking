@@ -1,2 +1,2 @@
 # flight-booking
-This is small console application for booking flights
+This is a small console application for booking flights
